@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Cuevas</h1>
 <h3 align="center">A passionate Java developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Framework, Spring boot, SQL and RESTful API**
 
 
 <p align="left">
